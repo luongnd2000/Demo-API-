@@ -1,0 +1,13 @@
+C:\Users\luong\source\repos\DemoAPI\DemoAPI\bin\Debug\DemoAPI.exe.config
+C:\Users\luong\source\repos\DemoAPI\DemoAPI\bin\Debug\DemoAPI.exe
+C:\Users\luong\source\repos\DemoAPI\DemoAPI\bin\Debug\DemoAPI.pdb
+C:\Users\luong\source\repos\DemoAPI\DemoAPI\obj\Debug\DemoAPI.csprojAssemblyReference.cache
+C:\Users\luong\source\repos\DemoAPI\DemoAPI\obj\Debug\DemoAPI.Properties.Resources.resources
+C:\Users\luong\source\repos\DemoAPI\DemoAPI\obj\Debug\DemoAPI.csproj.GenerateResource.cache
+C:\Users\luong\source\repos\DemoAPI\DemoAPI\obj\Debug\DemoAPI.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\DemoAPI\DemoAPI\obj\Debug\DemoAPI.exe
+C:\Users\luong\source\repos\DemoAPI\DemoAPI\obj\Debug\DemoAPI.pdb
+C:\Users\luong\source\repos\DemoAPI\DemoAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luong\source\repos\DemoAPI\DemoAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\luong\source\repos\DemoAPI\DemoAPI\obj\Debug\DemoAPI.csproj.CopyComplete
+C:\Users\luong\source\repos\DemoAPI\DemoAPI\obj\Debug\DemoAPI.MainForm.resources
